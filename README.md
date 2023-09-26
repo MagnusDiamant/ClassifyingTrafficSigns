@@ -1,1 +1,2 @@
 # ClassifyingTrafficSigns
+Implemented and trained a convolutional neural network on a dataset consisting of images of traffic signs. An interesting problem with high industrial relevance, it was especially challenging considering it is a multiclass classification problem with unbalanced class frequencies in which one must cope with large variations in visual appearances due to illumination changes, partial occlusions, rotations, weather conditions etc.
